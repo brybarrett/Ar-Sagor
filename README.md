@@ -6,7 +6,7 @@ Crafting dynamic experiences with animation, interactivity, and clean design.
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sm-arsagor/)  [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)]([Your_Dribbble_Link](https://dribbble.com/ar-sagor))  [![Bento](https://img.shields.io/badge/Bento.me-000000?style=for-the-badge&logo=linktree&logoColor=white)]([Your_Bento_Link](https://bento.me/ar-sagor))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sm-arsagor/)  [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/ar-sagor)  [![Bento](https://img.shields.io/badge/Bento.me-000000?style=for-the-badge&logo=linktree&logoColor=white)]((https://bento.me/ar-sagor)  
 
 ---
 
